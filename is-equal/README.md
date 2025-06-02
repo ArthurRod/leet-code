@@ -4,8 +4,8 @@ Implement a `isEqual` function similar to lodash’s `isEqual`.
 
 Before you begin coding, take a moment to address these questions:
 
-1 - What is the purpose of isEqual, and how does it function?
-2 - What comprehensive test cases should you write to validate that your implementation works correctly?
+- What is the purpose of isEqual, and how does it function?
+- What comprehensive test cases should you write to validate that your implementation works correctly?
 
 <details>
   <summary>Hint</summary>
